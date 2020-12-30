@@ -1,3 +1,11 @@
+# Curso da DIO em parceria com a Avanade apresentado por Eliézer Zarpelão.
+Implementando stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
+Projeto: dotnet-vaquinha-tests
+
+Foram apresentadas as desvantagens de entregar projetos sem a aplicação de testes prévios.
+Assuntos abordados: A regra 10 de Myers, os tipos mais comuns de testes e TDD (Desenvolver orientado a testes) e sobre fluxo principal e caminhos alternativos.
+
+
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
